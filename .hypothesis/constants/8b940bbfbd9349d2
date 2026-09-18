@@ -1,0 +1,4 @@
+# file: C:\Users\ennqi\Desktop\Y2S1\efoo0012-Y2S1\FIT2107\efoo0012\smart task manager\src\ui.py
+# hypothesis_version: 6.143.1
+
+['\nExisting Tasks:', '-', '1', '2', '3', '4', '5', 'Enter new name: ', 'Enter subtask name: ', 'NOTIFICATIONS', 'Select (1–5): ', '[!] Invalid choice.', 'is_recurring', 'is_subtask', 'parent_id', 'prereq_id', 'recurrence']
